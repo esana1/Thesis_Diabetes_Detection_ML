@@ -117,3 +117,9 @@ The project demonstrates the potential of using machine learning for non-invasiv
 Clone the repository:
 ```sh
 git clone https://github.com/esana1/Diabetes-Detection-Using-ML.git
+
+## Contributors
+
+- Ehtesham Sana
+- Dr. Nadeem Akhtar
+- Dr. Hamid Ashraf
