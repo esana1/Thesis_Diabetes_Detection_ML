@@ -119,7 +119,6 @@ Clone the repository:
 git clone https://github.com/esana1/Diabetes-Detection-Using-ML.git
 ```
 ## Contributors
-
 - Ehtesham Sana
 - Dr. Nadeem Akhtar
 - Dr. Hamid Ashraf
